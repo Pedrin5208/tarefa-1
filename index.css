@@ -1,0 +1,71 @@
+.h1{ 
+    display: flex;
+    justify-content: space-around;
+    color: blueviolet;
+    font-size: small;
+    font-style:initial;
+ }
+.line{ 
+  display: flex;
+  justify-content: space-between;
+  color: blueviolet;
+}
+
+.primeira {
+  width: 1200px;
+  height: 200px;
+
+}
+.VC{
+   display: flex;
+   justify-content: center;
+}
+.VC2{
+  display: flex;
+  justify-content: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family:Lucida Sans;
+}
+
+.segunda{
+  width: 1200px;
+  height: 200px;
+
+}
+.caça{
+  height: 200px;
+}
+.portfolio{
+  display:flex;
+  justify-content: center;
+     }
+.impacting{
+    display:flex;
+    justify-content: center;
+    font-family:Lucida Sans;
+     }
+.aircraft{
+    display: flex;
+}
+img {
+  width: 1200px;
+  height: 400px;
+}
+.avioes-img {
+  width: 150px;
+  height: 150px;
+}
+
+.avioes {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.imagens {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+
+ 
